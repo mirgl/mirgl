@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mirgl
+- 👀 I’m interested in beer drinking
+- 🌱 I’m currently learning Github
